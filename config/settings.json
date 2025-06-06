@@ -1,0 +1,7 @@
+// config/settings.json
+{
+    "scan_path": "/home",
+    "suspicious_extensions": [".exe", ".bat", ".vbs", ".scr", ".ps1", ".sh", ".dll"],
+    "cpu_threshold": 40,
+    "mem_threshold": 30
+}
